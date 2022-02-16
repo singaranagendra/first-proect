@@ -1,4 +1,14 @@
+RAYALASEEMA:
 kadapa,
 kurnool,
 anatapur,
 chittore.
+ANDHRA :
+nellore
+vijayawada
+krishna
+est.godvari
+west.godavari
+prakasham
+guntur
+
